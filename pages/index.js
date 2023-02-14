@@ -47,7 +47,7 @@ const Home = () => {
         </div>
         <div className="prompt-container">
           <textarea className="prompt-box"
-            placeholder="Write me a dutyleaveletter for HOD"
+            placeholder="Write me a loveletter for -myself-"
             value={userInput}
             onChange={onUserChangedText} />
         </div>
